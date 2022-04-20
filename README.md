@@ -1,5 +1,5 @@
 Текущий даг
-![Alt text](C:/Users/bel9e/OneDrive/Documents/git pics/dag.png?raw=true "Title")
+![Alt text](https://sun1-92.userapi.com/s/v1/ig2/QJYflAqNNgraMw4zNLtHWskFaAzoHKBYyGbnqWQFBNuI2LkJCQKwCaPB46FIh3LRY6vBUzjL3tdMfLaiwh_t2qoU.jpg?size=624x260&quality=96&type=album?raw=true "Title")
 
 Результаты: 
 1) [Q 2.1](https://disk.yandex.ru/i/cHbMnwprR1Uekw)
