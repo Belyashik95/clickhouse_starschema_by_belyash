@@ -1,0 +1,35 @@
+
+version: 2
+
+models:
+    - name: Q_2_1
+      description: "Clause 2.1 from https://clickhouse.com/docs/en/getting-started/example-datasets/star-schema/"
+      columns:
+        - name: total_sum
+          description: ""
+        - name: year
+          description: ""
+        - name: P_BRAND
+          description: ""
+    - name: Q_3_3
+      description: "Clause 3.3 from https://clickhouse.com/docs/en/getting-started/example-datasets/star-schema/"
+      columns:
+        - name: C_CITY
+          description: ""
+        - name: S_CITY
+          description: ""
+        - name: year
+          description: ""
+        - name: revenue
+          description: ""
+    - name: Q_4_2
+      description: "Clause 4.2 from https://clickhouse.com/docs/en/getting-started/example-datasets/star-schema/"
+      columns:
+        - name: year
+          description: ""
+        - name: S_NATION
+          description: ""
+        - name: P_CATEGORY
+          description: ""
+        - name: profit
+          description: ""

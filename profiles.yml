@@ -1,0 +1,12 @@
+clickhouse_starschema:
+  target: dev
+  outputs:
+    dev:
+      type: clickhouse
+      schema: dbt
+      host: rc1b-az3j1vmybo19p2sq.mdb.yandexcloud.net
+      port: 9440
+      user: admin
+      password: 04041995
+      secure: True
+
